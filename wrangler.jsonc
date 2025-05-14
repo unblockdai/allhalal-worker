@@ -15,7 +15,7 @@
     {
       "binding": "HYPERDRIVE",
       "id": "9584a469a6ae4e1cbfc0b018179160f7",
-      "localConnectionString": "<ENTER_LOCAL_CONNECTION_STRING_FOR_LOCAL_DEVELOPMENT>",
+      "localConnectionString":"postgres://postgres:postgres@localhost:5432/halalbites",
     },
   ],
   "assets": {
